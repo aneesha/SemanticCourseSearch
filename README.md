@@ -1,5 +1,5 @@
 # SemanticCourseSearch
-Experiment with Semantic Course Search
+Experiment with Semantic Course Search. Content from Liascript open courses used. 
 
 Just a Google Collab in Parts
 
